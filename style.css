@@ -48,4 +48,9 @@
     color: #fff;
   }
   
+  form p {
+    font-size: 18px;
+    margin-bottom: 5px;
+    font-family: 'Times New Roman', Times, serif;
+  }
   
