@@ -13,4 +13,9 @@
     padding: 0 10px;
     background: linear-gradient(-180deg, silver, whitesmoke);
   }
- 
+  
+  ::selection {
+    color: #000;
+    background: #fff;
+  }
+  
