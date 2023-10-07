@@ -54,3 +54,11 @@
     font-family: 'Times New Roman', Times, serif;
   }
   
+  form input {
+    height: 50px;
+    font-size: 17px;
+    padding: 0 15px;
+    border: 1px solid #999;
+    background: #555;
+  }
+ 
