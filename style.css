@@ -75,3 +75,15 @@
     justify-content: space-between;
   }
   
+  .drop-list .select-box {
+    display: flex;
+    width: 115px;
+    height: 45px;
+    align-items: center;
+    border-radius: 5px;
+    justify-content: center;
+    border: 1px solid #999;
+    background: whitesmoke;
+    color: #000;
+  }
+ 
