@@ -103,4 +103,7 @@
     width: 8px;
   }
   
- 
+  .select-box select::-webkit-scrollbar-track {
+    background: #fff;
+  }
+  
