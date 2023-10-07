@@ -185,6 +185,16 @@ let country_list = {
     });
   }
   
-
+  function loadFlag(element) {
+    for (let code in country_list) {
+      if (code == element.value) {
+        let imgTag = element.parentElement.querySelector("img");
+        imgTag.src = `https://flagcdn.com/48x36/${country_list[
+          code
+        ].toLowerCase()}.png`;
+      }
+    }
+  }
+  
  
   
