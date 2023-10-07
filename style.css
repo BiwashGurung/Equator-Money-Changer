@@ -61,4 +61,10 @@
     border: 1px solid #999;
     background: #555;
   }
- 
+  
+  form input:focus {
+    padding: 0 14px;
+    border: 1px solid #C0C0C0;
+    background: #555;
+  }
+  
