@@ -200,5 +200,10 @@ let country_list = {
     getExchangeRate();
   });
   
+  getButton.addEventListener("click", (e) => {
+    e.preventDefault();
+    getExchangeRate();
+  });
   
+ 
   
