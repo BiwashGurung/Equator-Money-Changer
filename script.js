@@ -162,3 +162,9 @@ let country_list = {
   
   let apiKey = "e759f92560e41c99ee6213a2";
   
+  const dropList = document.querySelectorAll("form select"),
+    fromCurrency = document.querySelector(".from select"),
+    toCurrency = document.querySelector(".to select"),
+    getButton = document.querySelector("form button");
+  
+  
