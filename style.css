@@ -68,3 +68,10 @@
     background: #555;
   }
   
+  form .drop-list {
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
