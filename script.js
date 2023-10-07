@@ -196,5 +196,9 @@ let country_list = {
     }
   }
   
- 
+  window.addEventListener("load", () => {
+    getExchangeRate();
+  });
+  
+  
   
